@@ -1,0 +1,14 @@
+.env
+.venv/
+genai_env/
+__pycache__/
+*.py[cod]
+.idea/
+resources/vectorstore/
+.env
+.venv/
+genai_env/
+__pycache__/
+*.py[cod]
+.idea/
+resources/vectorstore/
